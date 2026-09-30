@@ -1,0 +1,84 @@
+<mxfile host="65bd71144e">
+    <diagram id="gAMvUQUJ-ljXWlI2ddGE" name="Page-1">
+        <mxGraphModel dx="840" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;" value="Forma de Patrocinio para traer usuarios a la aplicacion" vertex="1">
+                    <mxGeometry height="30" width="360" x="245" y="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-14" edge="1" parent="1" source="-dTB5_KxdDeqRaz59ZRf-2" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-dTB5_KxdDeqRaz59ZRf-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="INICIO" vertex="1">
+                    <mxGeometry height="40" width="80" x="385" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="FIN" vertex="1">
+                    <mxGeometry height="40" width="80" x="385" y="800" as="geometry"/>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-15" edge="1" parent="1" source="-dTB5_KxdDeqRaz59ZRf-4" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-dTB5_KxdDeqRaz59ZRf-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Analisis de necesidad" vertex="1">
+                    <mxGeometry height="30" width="140" x="355" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-16" edge="1" parent="1" source="-dTB5_KxdDeqRaz59ZRf-5" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="425.8823529411766" y="350.52941176470586" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Desarrollo del software conforme a su publico objetivo" vertex="1">
+                    <mxGeometry height="70" width="165" x="343" y="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-12" edge="1" parent="1" source="-dTB5_KxdDeqRaz59ZRf-7" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-dTB5_KxdDeqRaz59ZRf-11">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="590" y="490"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-13" edge="1" parent="1" source="-dTB5_KxdDeqRaz59ZRf-7" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-dTB5_KxdDeqRaz59ZRf-10">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="260" y="490"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Se tiene&amp;nbsp; a un SPONSOR o Publico Base" vertex="1">
+                    <mxGeometry height="120" width="134.5" x="358" y="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SI" vertex="1">
+                    <mxGeometry height="30" width="60" x="298" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NO" vertex="1">
+                    <mxGeometry height="30" width="60" x="507.5" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-17" edge="1" parent="1" source="-dTB5_KxdDeqRaz59ZRf-10" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="260" y="670.5294117647059" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-19" edge="1" parent="1" source="-dTB5_KxdDeqRaz59ZRf-10" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-dTB5_KxdDeqRaz59ZRf-3">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="260" y="820"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Se consigue publicidad mediante contactos y empresas para probar el prododuto, como promocion mediante redes u anuncios" vertex="1">
+                    <mxGeometry height="80" width="165" x="178" y="590" as="geometry"/>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-18" edge="1" parent="1" source="-dTB5_KxdDeqRaz59ZRf-11" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="-dTB5_KxdDeqRaz59ZRf-3">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="590" y="820"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-dTB5_KxdDeqRaz59ZRf-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Busqueda de empresas quien esten dispuesto a probarlo, usarlo y comercializarlo" vertex="1">
+                    <mxGeometry height="80" width="165" x="507.5" y="590" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

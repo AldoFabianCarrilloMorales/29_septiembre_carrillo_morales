@@ -1,0 +1,87 @@
+<mxfile host="65bd71144e">
+    <diagram id="DFLzhLyw-jqFhKR0Geje" name="Page-1">
+        <mxGraphModel dx="1742" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-14" edge="1" parent="1" source="QqVx28_iPWXg9v_aQMw6-1" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QqVx28_iPWXg9v_aQMw6-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="INICIO" vertex="1">
+                    <mxGeometry height="40" width="80" x="385" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="FIN" vertex="1">
+                    <mxGeometry height="40" width="80" x="385" y="670" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" value="Logica del sistema monetario de la aplicacion en una de licencia/ aplicacion gratuita" vertex="1">
+                    <mxGeometry height="70" width="420" x="215" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-15" edge="1" parent="1" source="QqVx28_iPWXg9v_aQMw6-4" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QqVx28_iPWXg9v_aQMw6-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="apicacion" vertex="1">
+                    <mxGeometry height="40" width="80" x="385" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-16" edge="1" parent="1" source="QqVx28_iPWXg9v_aQMw6-6" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QqVx28_iPWXg9v_aQMw6-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-17" edge="1" parent="1" source="QqVx28_iPWXg9v_aQMw6-6" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="QqVx28_iPWXg9v_aQMw6-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Tipo de Licencia" vertex="1">
+                    <mxGeometry height="80" width="105" x="373" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-21" edge="1" parent="1" source="QqVx28_iPWXg9v_aQMw6-7" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QqVx28_iPWXg9v_aQMw6-12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="funciones basicas de la aplicacion" vertex="1">
+                    <mxGeometry height="60" width="120" x="211" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-19" edge="1" parent="1" source="QqVx28_iPWXg9v_aQMw6-8" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QqVx28_iPWXg9v_aQMw6-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pago de licencia mensual" vertex="1">
+                    <mxGeometry height="40" width="120" x="520" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-18" edge="1" parent="1" source="QqVx28_iPWXg9v_aQMw6-9" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QqVx28_iPWXg9v_aQMw6-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uso Gratuito" vertex="1">
+                    <mxGeometry height="40" width="120" x="211" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-22" edge="1" parent="1" source="QqVx28_iPWXg9v_aQMw6-10" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="QqVx28_iPWXg9v_aQMw6-13">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="580" y="600"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Todas las Funciones de la aplicacion" vertex="1">
+                    <mxGeometry height="60" width="120" x="520" y="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-20" edge="1" parent="1" source="QqVx28_iPWXg9v_aQMw6-11" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QqVx28_iPWXg9v_aQMw6-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Verificacion de compra" vertex="1">
+                    <mxGeometry height="60" width="120" x="520" y="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-23" edge="1" parent="1" source="QqVx28_iPWXg9v_aQMw6-12" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QqVx28_iPWXg9v_aQMw6-13">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="271" y="600"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="dependiendo de la aplicacion&amp;nbsp; puede contener anuncios" vertex="1">
+                    <mxGeometry height="60" width="120" x="211" y="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-24" edge="1" parent="1" source="QqVx28_iPWXg9v_aQMw6-13" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QqVx28_iPWXg9v_aQMw6-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QqVx28_iPWXg9v_aQMw6-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cierre de la aplicacion" vertex="1">
+                    <mxGeometry height="40" width="161.75" x="344" y="580" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
